@@ -1,0 +1,26 @@
+{
+  "name": "mini-idb",
+  "version": "1.0.2",
+  "description": "simple IndexedDB",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/E2875888382/mini-idb.git"
+  },
+  "keywords": [
+    "mini",
+    "IndexedDB",
+    "indexeddb",
+    "idb",
+    "db"
+  ],
+  "author": "ElricTang <elrictang@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E2875888382/mini-idb/issues"
+  },
+  "homepage": "https://github.com/E2875888382/mini-idb#readme"
+}
